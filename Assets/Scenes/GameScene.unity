@@ -1388,8 +1388,8 @@ MonoBehaviour:
   inGameMenu: {fileID: 588642866}
   bgsound: {fileID: 447944081}
   volumeSlider: {fileID: 1292656545}
-  antiAliasingDropdown: {fileID: 0}
-  resolutionDropdown: {fileID: 0}
+  antiAliasingDropdown: {fileID: 447092343}
+  resolutionDropdown: {fileID: 671440027}
   vsyncToggle: {fileID: 0}
 --- !u!1 &337613627
 GameObject:

@@ -73,7 +73,8 @@ public class UIManager : MonoBehaviour
 
     public void StartTheGame()
     {
-        mainMenuPanel.SetActive(false);
+        mainMenu.SetActive(false);
+        mainMenuPanel.SetActive(false);        
         settingsPanel.SetActive(false);
         bgsound.Stop();
         inGameMenu.SetActive(true);
